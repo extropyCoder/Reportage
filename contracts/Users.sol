@@ -1,3 +1,5 @@
-contract Users{
-  
+import "Owned.sol";
+
+contract Users is Owned{
+
 }
