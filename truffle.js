@@ -11,7 +11,8 @@ module.exports = {
   },
   deploy: [
     "UsersDB",
-    "Users"
+    "Users",
+    "Reputation"
   ],
   rpc: {
     host: "localhost",
