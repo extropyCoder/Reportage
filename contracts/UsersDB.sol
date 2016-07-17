@@ -9,4 +9,9 @@ struct User{
 }
 
 
+function UsersDB(address _Users){
+  owned();
+  controllerContract = _Users;
+}
+
 }
